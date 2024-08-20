@@ -12,3 +12,4 @@ Hacer una pizza es relativamente fácil, solo debes conocer los ingredientes y s
 6. Deja reposar.
 7. Sirve la pizza.
 8. ¡Disfruta de tu pizza! 🍕
+
